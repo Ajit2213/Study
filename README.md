@@ -9,7 +9,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 <hr/>
 
-<h2>Live link 🌍📡 - [  https://vercel.com/ajits-projects-88269d9e/study  ]</h2>
+<h2>Live link 🌍📡 - [ https://study-six-fawn.vercel.app/  ]</h2>
 <hr/>
 
 
